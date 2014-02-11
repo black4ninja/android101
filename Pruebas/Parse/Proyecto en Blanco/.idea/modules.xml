@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Proyecto en Blanco.iml" filepath="$PROJECT_DIR$/Proyecto en Blanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Librerias/actionbarsherlock/actionbarsherlock1.iml" filepath="$PROJECT_DIR$/../Librerias/actionbarsherlock/actionbarsherlock1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Librerias/view pager indicator/view pager indicator1.iml" filepath="$PROJECT_DIR$/../Librerias/view pager indicator/view pager indicator1.iml" />
+    </modules>
+  </component>
+</project>
+
