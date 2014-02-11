@@ -3,15 +3,16 @@ Android 101
 
 Este repositorio cuenta con un curso intensivo completo de Android en epsañol.
 
-Contenido:
-  
+**Contenido:**
+
   Presentaciones
   
   Archivos de prueba para demos
   
   Imagenes utilizadas en los demos
   
-Temario:
+  
+**Temario:**
   Librerias externas y soporte de múltiples versiones de Android en una sola aplicación
   
   Actividades
@@ -22,7 +23,6 @@ Temario:
   
   Parse
   
-  
-Mejoras a futuro:
-  
+**Mejoras a futuro:**
+
   Versión en inglés
